@@ -19,4 +19,4 @@ try:
     print(f"Probabilities: {probabilities}")
 
 except Exception as ex:
-    print(f"Error during pipeline execution: {ex}")
+    print(f"Error during pipeline execution: {e}")
