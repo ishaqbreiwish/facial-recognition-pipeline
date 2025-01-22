@@ -18,5 +18,5 @@ try:
     print(f"Predicted: {result}")
     print(f"Probabilities: {probabilities}")
 
-except Exception as e:
-    print(f"Error during pipeline execution: {e}")
+except Exception as ex:
+    print(f"Error during pipeline execution: {ex}")
